@@ -1,7 +1,7 @@
 # Hi, I’m Chaitanya 👋
 
 Computer Engineering student @ **University of Waterloo**  
-Front-end dev • UX enthusiast • Community event organizer
+Front-end dev • UX enthusiast • Software Developer • Community event organizer
 
 ---
 
