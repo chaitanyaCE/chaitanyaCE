@@ -17,7 +17,7 @@ Front-end dev • UX enthusiast • Software Developer
 
 - Small, focused web projects that prioritize UX over “fancy” complexity  
 - Tools and pages to support tournaments, events, and local communities  
-- Sharpening C++, JavaScript, and problem-solving fundamentals  
+- Sharpening C++, JavaScript, and problem-solving fundamentals by coding serveral guided and solo projects
 
 ---
 
@@ -30,9 +30,9 @@ Front-end dev • UX enthusiast • Software Developer
 
 ### 📹 Beyond code
 
-- Creating social media content for sports tournaments and community events  
+- Creating social media content for community sports and other events  
 - Editing videos, building visuals, and experimenting with storytelling  
-- Exploring how design, code, and content can work together smoothly  
+- Exploring how design, code, and content can work together smoothly
 
 ---
 
