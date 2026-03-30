@@ -1,45 +1,46 @@
-# Hi, I’m Chaitanya 👋
+Hi, I’m Chaitanya 👋
 
-Computer Engineering student @ **University of Waterloo**  
+Computer Engineering student @ University of Waterloo
 Front-end dev • UX enthusiast • Software Developer
 
----
+🧠 What drives me
 
-### 🧠 What drives me
+Turning rough ideas into clean, responsive web experiences
+Designing interfaces that are simple enough for anyone to use
+Learning in public and leaving a trail of well-documented projects
 
-- Turning rough ideas into clean, responsive web experiences  
-- Designing interfaces that are simple enough for anyone to use  
-- Learning in public and leaving a trail of well-documented projects  
+🔭 What I’m working on
 
----
+Small, focused web projects that prioritize UX over “fancy” complexity
+Tools and pages to support tournaments, events, and local communities
+Sharpening C++, JavaScript, and problem-solving fundamentals by coding serveral guided and solo projects
 
-### 🔭 What I’m working on
+⚙️ Toolbox
 
-- Small, focused web projects that prioritize UX over “fancy” complexity  
-- Tools and pages to support tournaments, events, and local communities  
-- Sharpening C++, JavaScript, and problem-solving fundamentals by coding serveral guided and solo projects
+Languages: C++, JavaScript, Python
+Web: HTML, CSS, React (learning), responsive design
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react" alt="Toolbox Icons" />
+</p>
 
-### ⚙️ Toolbox
+📹 Beyond code
 
-- Languages: C++, JavaScript, Python  
-- Web: HTML, CSS, React (learning), responsive design  
+Creating social media content for community sports and other events
+Editing videos, building visuals, and experimenting with storytelling
+Exploring how design, code, and content can work together smoothly
 
----
+🌐 Find me
 
-### 📹 Beyond code
+<p align="left">
+  <a href="https://linkedin.com/in/chaitanya-patel-uwaterloo">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/chaitanya_patel130/?hl=en">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
 
-- Creating social media content for community sports and other events  
-- Editing videos, building visuals, and experimenting with storytelling  
-- Exploring how design, code, and content can work together smoothly
+Portfolio (coming soon): work-in-progress ✨
 
----
-
-### 🌐 Find me
-
-- LinkedIn: [linkedin.com/in/chaitanya-patel-uwaterloo](https://www.linkedin.com/in/chaitanya-patel-uwaterloo)
-- Instagram: [https://www.instagram.com/chaitanya_patel130/?hl=en](https://www.instagram.com/chaitanya_patel130/?hl=en)
-- Portfolio (coming soon): work-in-progress ✨  
-
-> If something here sparks an idea, feel free to reach out or open an issue — I’m always up for collaborating and learning.
+If something here sparks an idea, feel free to reach out or open an issue — I’m always up for collaborating and learning.
