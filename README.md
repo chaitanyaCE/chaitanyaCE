@@ -1,8 +1,8 @@
-Hi, I’m Chaitanya 👋
+### Hi, I’m Chaitanya 👋
 
 Computer Engineering student @ University of Waterloo Front-end dev • UX enthusiast • Software Developer
 
-🧠 What drives me
+## 🧠 What drives me
 
 Turning rough ideas into clean, responsive web experiences
 
@@ -10,7 +10,7 @@ Designing interfaces that are simple enough for anyone to use
 
 Learning in public and leaving a trail of well-documented projects
 
-🔭 What I’m working on
+## 🔭 What I’m working on
 
 Small, focused web projects that prioritize UX over “fancy” complexity
 
@@ -18,7 +18,7 @@ Tools and pages to support tournaments, events, and local communities
 
 Sharpening C++, JavaScript, and problem-solving fundamentals by coding several guided and solo projects
 
-⚙️ Toolbox
+## ⚙️ Toolbox
 
 Languages: C++, JavaScript, Python
 
@@ -28,7 +28,7 @@ Web: HTML, CSS, React (learning), responsive design
   <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react" alt="Toolbox Icons" />
 </p>
 
-📹 Beyond code
+## 📹 Beyond code
 
 Creating social media content for community sports and other events
 
@@ -36,7 +36,7 @@ Editing videos, building visuals, and experimenting with storytelling
 
 Exploring how design, code, and content can work together smoothly
 
-🌐 Find me
+## 🌐 Find me
 
 <p align="left" target="_blank">
   <a href="https://linkedin.com/in/chaitanya-patel-uwaterloo">
