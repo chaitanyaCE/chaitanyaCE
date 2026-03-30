@@ -25,7 +25,7 @@ Languages: C++, JavaScript, Python
 Web: HTML, CSS, React (learning), responsive design
 
 <p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,js,python,html,css,react" alt="Toolbox Icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react" alt="Toolbox Icons" />
 </p>
 
 📹 Beyond code
@@ -39,12 +39,12 @@ Exploring how design, code, and content can work together smoothly
 🌐 Find me
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/chaitanya-patel-uwaterloo">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/chaitanya_patel130/?hl=en">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dinstagram" alt="Instagram" />
-</a>
+  <a href="https://linkedin.com/in/chaitanya-patel-uwaterloo">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/chaitanya_patel130/?hl=en">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </p>
 
 If something here sparks an idea, feel free to reach out or open an issue — I’m always up for collaborating and learning.
