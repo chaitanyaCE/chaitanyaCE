@@ -39,10 +39,10 @@ Exploring how design, code, and content can work together smoothly
 🌐 Find me
 
 <p align="left">
-  <a href="https://linkedin.com/in/chaitanya-patel-uwaterloo">
+  <a href="https://linkedin.com/in/chaitanya-patel-uwaterloo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/chaitanya_patel130/?hl=en">
+  <a href="https://www.instagram.com/chaitanya_patel130/?hl=en" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
