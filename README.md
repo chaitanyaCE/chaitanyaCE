@@ -24,7 +24,7 @@ Sharpening C++, JavaScript, and problem-solving fundamentals by coding several g
 
 ![Streak](https://streak-stats.demolab.com/?user=chaitanyaCE&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaCE&layout=compact&theme=tokyonight&hide=html,css,javascript,python,c++,react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaCE&layout=compact&theme=tokyonight)
 
 ## 📹 Beyond code
 
