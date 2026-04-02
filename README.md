@@ -20,11 +20,11 @@ Sharpening C++, JavaScript, and problem-solving fundamentals by coding several g
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chaitanyaCE&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaitanyaCE&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=chaitanyaCE&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaCE&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaitanyaCE&layout=compact&theme=tokyonight)
 
 ## 📹 Beyond code
 
