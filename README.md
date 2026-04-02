@@ -20,15 +20,12 @@ Tools and pages to support tournaments, events, and local communities
 
 Sharpening C++, JavaScript, and problem-solving fundamentals by coding several guided and solo projects
 
-## ⚙️ Toolbox
-
-Languages: C++, JavaScript, Python
-
-Web: HTML, CSS, React (learning), responsive design
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react" alt="Toolbox Icons" />
-</p>
+## 📊 Tech Stack & Stats
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaCE&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
 
 ## 📹 Beyond code
 
