@@ -75,4 +75,4 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 If you're building something meaningful or need a developer who cares about UX:
 
-👉 Open an issue or reach out — I’m always open to collaborating.
+**👉 Open an issue or reach out — I’m always open to collaborating.**
