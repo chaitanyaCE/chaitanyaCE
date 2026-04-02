@@ -1,5 +1,6 @@
-![Typing](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&lines=Computer+Engineering+Student;Frontend+Developer;UX-Focused+Builder)
 # 👋 Hi, I'm Chaitanya Patel
+
+![Typing](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&lines=Computer+Engineering+Student;Frontend+Developer;UX-Focused+Builder)
 
 🎓 Computer Engineering @ University of Waterloo  
 💻 Front-End Developer • UX-Focused Builder  
