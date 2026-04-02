@@ -10,6 +10,8 @@ Designing interfaces that are simple enough for anyone to use
 
 Learning in public and leaving a trail of well-documented projects
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chaitanyaCE)](https://git.io/streak-stats)
+
 ## 🔭 What I’m working on
 
 Small, focused web projects that prioritize UX over “fancy” complexity
