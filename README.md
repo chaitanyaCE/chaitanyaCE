@@ -10,8 +10,6 @@ Designing interfaces that are simple enough for anyone to use
 
 Learning in public and leaving a trail of well-documented projects
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chaitanyaCE)](https://git.io/streak-stats)
-
 ## 🔭 What I’m working on
 
 Small, focused web projects that prioritize UX over “fancy” complexity
@@ -21,6 +19,8 @@ Tools and pages to support tournaments, events, and local communities
 Sharpening C++, JavaScript, and problem-solving fundamentals by coding several guided and solo projects
 
 ## 📊 Tech Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=chaitanyaCE&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=chaitanyaCE&theme=tokyonight)
 
