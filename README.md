@@ -21,11 +21,10 @@ Tools and pages to support tournaments, events, and local communities
 Sharpening C++, JavaScript, and problem-solving fundamentals by coding several guided and solo projects
 
 ## 📊 Tech Stack & Stats
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaCE&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</div>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaCE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyaCE&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📹 Beyond code
 
