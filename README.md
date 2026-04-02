@@ -1,48 +1,77 @@
-# Hi, I’m Chaitanya 👋
+# 👋 Hi, I'm Chaitanya Patel
+![Typing](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&lines=Computer+Engineering+Student;Frontend+Developer;UX-Focused+Builder)
 
-Computer Engineering student @ University of Waterloo Front-end dev • UX enthusiast • Software Developer
+🎓 Computer Engineering @ University of Waterloo  
+💻 Front-End Developer • UX-Focused Builder  
 
-## 🧠 What drives me
+---
 
-Turning rough ideas into clean, responsive web experiences
+## ⚡ About Me
 
-Designing interfaces that are simple enough for anyone to use
+I build clean, responsive web applications with a strong focus on **usability and clarity**.  
+My goal is simple: turn ideas into interfaces that people can actually use.
 
-Learning in public and leaving a trail of well-documented projects
+- 🧠 UX-first approach to development  
+- 🛠️ Strong foundation in JavaScript & C++  
+- 📈 Learning in public through real, documented projects  
 
-## 🔭 What I’m working on
+---
 
-Small, focused web projects that prioritize UX over “fancy” complexity
+## 🛠️ Tech Stack
 
-Tools and pages to support tournaments, events, and local communities
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,git,github,vscode" />
+</p>
 
-Sharpening C++, JavaScript, and problem-solving fundamentals by coding several guided and solo projects
+---
 
-## 📊 GitHub Stats
+## 🚧 Current Focus
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaitanyaCE&show_icons=true&theme=tokyonight)
+- Building **small, high-quality web projects** (UX > complexity)
+- Developing tools for **events, tournaments, and communities**
+- Strengthening **problem-solving + core CS fundamentals**
+
+---
+
+## 📈 Activity & Contributions
+
+![Snake](https://github.com/chaitanyaCE/chaitanyaCE/blob/output/github-contribution-grid-snake.svg)
 
 ![Streak](https://streak-stats.demolab.com/?user=chaitanyaCE&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaitanyaCE&layout=compact&theme=tokyonight)
+---
 
-## 📹 Beyond code
+## 🎯 What Sets Me Apart
 
-Creating social media content for community sports and other events
+- I prioritize **clarity over clutter** in both code and design  
+- I ship **focused, complete projects** — not half-finished ideas  
+- I combine **development + design + content** into cohesive outputs  
 
-Editing videos, building visuals, and experimenting with storytelling
+---
 
-Exploring how design, code, and content can work together smoothly
+## 🎬 Beyond Code
 
-## 🌐 Find me
+- Creating content for **community sports & events**  
+- Editing videos and designing visuals  
+- Exploring the intersection of **code, design, and storytelling**
 
-<p align="left" target="_blank">
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
   <a href="https://linkedin.com/in/chaitanya-patel-uwaterloo">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/chaitanya_patel130/?hl=en"> 
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <a href="https://www.instagram.com/chaitanya_patel130/?hl=en">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
-If something here sparks an idea, feel free to reach out or open an issue — I’m always up for collaborating and learning.
+---
+
+## 🤝 Collaboration
+
+If you're building something meaningful or need a developer who cares about UX:
+
+👉 Open an issue or reach out — I’m always open to collaborating.
