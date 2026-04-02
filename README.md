@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Chaitanya Patel
 ![Typing](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&lines=Computer+Engineering+Student;Frontend+Developer;UX-Focused+Builder)
+# 👋 Hi, I'm Chaitanya Patel
 
 🎓 Computer Engineering @ University of Waterloo  
 💻 Front-End Developer • UX-Focused Builder  
@@ -20,7 +20,7 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,react,github,vscode" />
 </p>
 
 ---
