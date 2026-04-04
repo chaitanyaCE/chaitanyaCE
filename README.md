@@ -38,8 +38,6 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 ![Snake](https://github.com/chaitanyaCE/chaitanyaCE/blob/output/github-contribution-grid-snake.svg)
 
-![Streak](https://streak-stats.demolab.com/?user=chaitanyaCE&theme=tokyonight)
-
 ---
 
 ## 🎯 What Sets Me Apart
