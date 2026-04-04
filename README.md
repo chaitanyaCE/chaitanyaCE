@@ -16,6 +16,9 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 - 🛠️ Strong foundation in JavaScript & C++  
 - 📈 Learning in public through real, documented projects  
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Frontend+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+</h3>
 ---
 
 ## 🛠️ Tech Stack
