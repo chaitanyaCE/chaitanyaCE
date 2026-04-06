@@ -65,9 +65,10 @@ My goal is simple: turn ideas into interfaces that people can actually use.
   <a href="https://www.instagram.com/chaitanya_patel130/?hl=en">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a> href="mailto: c5patel@uwaterloo.ca"
-    <img src="https://simpleicons.org" alt="Gmail" width="20" height="20">
+  <a href="mailto:c5patel@uwaterloo.ca">
+    <img src="https://cdn.simpleicons.org/microsoftoutlook" alt="Outlook" width="20" height="20">
   </a>
+
 </p>
 
 ---
