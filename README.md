@@ -21,7 +21,7 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,react,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py,react,github,vscode" />
 </p>
 
 ---
