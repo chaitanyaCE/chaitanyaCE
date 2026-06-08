@@ -17,11 +17,10 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 - 📈 Learning in public through real, documented projects  
 
 ---
-
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py,react,github,vscode,figma,sqlite" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py,cpp,c,react,github,vscode,figma,sqlite,ts,vite,nodejs," />
 </p>
 
 ---
