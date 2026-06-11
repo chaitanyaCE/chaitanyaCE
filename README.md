@@ -3,7 +3,7 @@
 ![Typing](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=58A6FF&lines=Computer+Engineering+Student;Frontend+Developer;Aspiring+Software+Developer;UX-Focused+Builder)
 
 🎓 Computer Engineering @ University of Waterloo  
-💻 Front-End Developer • Aspring Software Developer • UX-Focused Builder  
+💻 Front-End Developer • Aspring Software Developer • UX-Focused Builder • Active Volunteer @ YDS Canada
 
 ---
 
