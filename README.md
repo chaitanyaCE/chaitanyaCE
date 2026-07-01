@@ -20,7 +20,7 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py,cpp,c,react,github,vscode,figma,sqlite,ts,vite,nodejs,aws,arduino," />
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py,cpp,c,react,github,vscode,figma,sqlite,ts,vite,nodejs,aws,arduino,latex," />
 </p>
 
 ---
