@@ -43,7 +43,7 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 - **Engineering + UX Synergy**: I try bridging the gap between technical CS fundamentals and intuitive design, ensuring interfaces are both highly functional and accessible  
 - **Architecture for Clarity**: I write clean, maintainable, and modular code—prioritizing readable structure and simplicity over unnecessary complexity  
-- **End-to-End Execution**: I build self-contained, fully shipped web applications with real-time state management, responsive UIs, and persistent data—not half-finished prototypes.  
+- **End-to-End Execution**: I build self-contained, fully shipped web applications with real-time state management, responsive UIs, and persistent data, not half-finished prototypes.  
 
 ---
 
