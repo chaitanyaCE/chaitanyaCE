@@ -25,14 +25,33 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 ---
 
-## 🚧 Current Focus
+## 🚧 Current Focus Roadmap
 
-| 🔨 **What I'm Building** | 🧠 **What I'm Sharpening** |
-| :--- | :--- |
-| **UX-First Web Apps:** Small, fast, and polished front-end applications. | **CS Fundamentals:** Deepening my grasp of C++, algorithms, and memory management. |
-| **Community Event Tools:** Custom countdowns, flyers, and tools for grassroots tournaments. | **State Management:** Crafting seamless single-page apps with local data persistence. |
+<p align="center">
+  <img src="https://img.shields.io/badge/Q2--Q3%202024-UX--FIRST%20WEB%20APPS-0969da?style=for-the-badge" alt="Stage 1" />
+  <br />
+  🚀 <em>Shipping clean, responsive front-end applications, prioritizing usability.</em>
+</p>
 
-*⚡ Currently experimenting with: Vanilla JS State Routing & Tailscale Networking on hardware chips.*
+<p align="center">
+  &nbsp;&nbsp; &mdash;&mdash;&mdash;&mdash; &nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Q4%202024-COMMUNITY%20EVENT%20TOOLS-2ea44f?style=for-the-badge" alt="Stage 2" />
+  <br />
+  🏀 <em>Building custom tools and graphics for local grassroots tournaments.</em>
+</p>
+
+<p align="center">
+  &nbsp;&nbsp; &mdash;&mdash;&mdash;&mdash; &nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2025%2B-CS%20FUNDAMENTALS%20%26%20ALGORITHMS-6e7681?style=for-the-badge" alt="Stage 3" />
+  <br />
+  🧠 <em>Deepening grasp of C++ optimization, data structures, and memory management.</em>
+</p>
 
 ---
 
