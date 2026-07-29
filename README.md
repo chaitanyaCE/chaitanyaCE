@@ -41,9 +41,11 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 ## 🎯 What Sets Me Apart
 
-- **Engineering + UX Synergy**: I try bridging the gap between technical CS fundamentals and intuitive design, ensuring interfaces are both highly functional and accessible  
-- **Architecture for Clarity**: I write clean, maintainable, and modular code—prioritizing readable structure and simplicity over unnecessary complexity  
-- **End-to-End Execution**: I build self-contained, fully shipped web applications with real-time state management, responsive UIs, and persistent data, not half-finished prototypes.  
+![UX First](https://img.shields.io/badge/Focus-UX_%26_Clarity-2ea44f?style=for-the-badge)
+![Full Stack Mindset](https://img.shields.io/badge/Approach-End--to--End_Shipping-0969da?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Architecture-Modular_%26_Maintainable-6e7681?style=for-the-badge)
+
+I don’t just write code that compiles—I care about how it **feels** to use. Coming from a Computer Engineering background with a UX focus, I build interfaces where technical structure meets human-centered design.
 
 ---
 
