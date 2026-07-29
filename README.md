@@ -45,7 +45,7 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 ![Full Stack Mindset](https://img.shields.io/badge/Approach-End--to--End_Shipping-0969da?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Architecture-Modular_%26_Maintainable-6e7681?style=for-the-badge)
 
-I don’t just write code that compiles—I care about how it **feels** to use. Coming from a Computer Engineering background with a UX focus, I build interfaces where technical structure meets human-centered design.
+I don’t just write code that compiles, I care about how it **feels** to use. Coming from a Computer Engineering background with a UX focus, I build interfaces where technical structure meets human-centered design.
 
 ---
 
