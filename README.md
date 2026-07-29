@@ -27,9 +27,11 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 ## 🚧 Current Focus
 
-- Building **small, high-quality web projects** (UX > complexity)
-- Developing tools for **events, tournaments, and communities**
-- Strengthening **problem-solving + core CS fundamentals**
+![Building](https://img.shields.io/badge/Building-Small,%20High--Quality%20Web%20Apps-0969da?style=for-the-badge&logo=github)
+![Community](https://img.shields.io/badge/Designing-Sports%20%26%20Event%20Tools-2ea44f?style=for-the-badge&logo=react)
+![Learning](https://img.shields.io/badge/Sharpening-Core%20CS%20%2B%20Algorithms-6e7681?style=for-the-badge&logo=cplusplus)
+
+> *"Right now, I'm prioritizing user experience over unnecessary complexity—shipping clean, functional web apps and real-world tools for local communities."*
 
 ---
 
