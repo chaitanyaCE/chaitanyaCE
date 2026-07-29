@@ -51,7 +51,7 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 - **Community & Event Organization**: Designing promotional visuals, countdown flyers, and media content for local grassroots sports and basketball tournaments
 - **Digital Media & Video Production**: Directing, editing, and designing video reels and graphic assets that turn complex ideas into engaging visual stories. 
-- Exploring the intersection of **code, design, and storytelling**
+- **Creative Problem Solving**: Exploring the intersection of digital design, interactive media, and technical storytelling to craft memorable experiences.
 
 ---
 
