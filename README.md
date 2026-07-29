@@ -51,9 +51,10 @@ I don’t just write code that compiles—I care about how it **feels** to use. 
 
 ## 🎬 Beyond Code
 
-- **Community & Event Organization**: Designing promotional visuals, countdown flyers, and media content for local grassroots sports and basketball tournaments
-- **Digital Media & Video Production**: Directing, editing, and designing video reels and graphic assets that turn complex ideas into engaging visual stories. 
-- **Creative Problem Solving**: Exploring the intersection of digital design, interactive media, and technical storytelling to craft memorable experiences.
+| 🎨 **Design & Media** | 🏀 **Community & Events** | ⚡ **Philosophy** |
+| :--- | :--- | :--- |
+| Editing video reels & motion graphics | Directing logistics for 3v3 basketball tournaments | Simple layouts beat complex over-engineering |
+| Designing tournament countdown flyers | Building tools for grassroots sports organizations | Learning in public through documented shipping |
 
 ---
 
