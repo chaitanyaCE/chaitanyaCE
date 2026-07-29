@@ -7,14 +7,17 @@
 
 ---
 
-## ⚡ About Me
+# 👋 Hi, I'm Chaitanya Patel
 
-I build clean, responsive web applications with a strong focus on **usability and clarity**.  
-My goal is simple: turn ideas into interfaces that people can actually use.
+![Computer Engineering](https://img.shields.io/badge/UWaterloo-Computer%20Engineering-0969da?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-UX--First%20Development-2ea44f?style=for-the-badge)
+![Mindset](https://img.shields.io/badge/Philosophy-Learning%20in%20Public-6e7681?style=for-the-badge)
 
-- 🧠 UX-first approach to development  
-- 🛠️ Strong foundation in JavaScript & C++  
-- 📈 Learning in public through real, documented projects  
+I build clean, responsive web applications where technical structure meets intuitive design. Studying **Honours Computer Engineering**, my goal is simple: eliminate friction and turn complex ideas into interfaces people actually enjoy using.
+
+- 🚀 **Currently Building:** Self-contained single-page apps & tools for local grassroots sports.
+- 📈 **My Mindset:** Documenting real, shipped projects in public.
+- 💼 **Status:** Actively seeking **Fall 2026 Co-op / Internship** opportunities.  
 
 ---
 ## 🛠️ Tech Stack
