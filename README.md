@@ -50,7 +50,7 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 ## 🎬 Beyond Code
 
 - **Community & Event Organization**: Designing promotional visuals, countdown flyers, and media content for local grassroots sports and basketball tournaments
-- Editing videos and designing visuals  
+- **Digital Media & Video Production**: Directing, editing, and designing video reels and graphic assets that turn complex ideas into engaging visual stories. 
 - Exploring the intersection of **code, design, and storytelling**
 
 ---
