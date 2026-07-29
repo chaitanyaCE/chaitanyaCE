@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chaitanya Patel
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=58A6FF&lines=Computer+Engineering+Student+@+UWaterloo;Aspiring+Software+Developer;UX-Focused+Builder)
+![Typing](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=58A6FF&lines=Computer+Engineering+Student+UWaterloo;Aspiring+Software+Developer;UX-Focused+Builder)
 
 - 🎯 **Engineering + UX:** Combining front-end usability with solid Computer Engineering fundamentals.
 - 🛠️ **What I Build:** Clean, responsive web applications and practical tools for community events.
