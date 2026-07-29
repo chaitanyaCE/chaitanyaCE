@@ -49,7 +49,7 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 ## 🎬 Beyond Code
 
-- Creating content for **community sports & events**  
+- **Community & Event Organization**: Designing promotional visuals, countdown flyers, and media content for local grassroots sports and basketball tournaments
 - Editing videos and designing visuals  
 - Exploring the intersection of **code, design, and storytelling**
 
