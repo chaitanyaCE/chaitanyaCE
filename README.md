@@ -5,11 +5,7 @@ I'm an **Honours Computer Engineering** student at the **University of Waterloo*
 - 🎯 **Engineering + UX:** Combining front-end usability with solid Computer Engineering fundamentals.
 - 🛠️ **What I Build:** Clean, responsive web applications and practical tools for community events.
 - 📈 **Learning in Public:** Documenting my journey through finished, shipped projects—not half-baked demos.
-- 💼 **Looking Ahead:** Seeking **Fall 2026 Co-op / Internship** opportunities in Software & Front-End Engineering.
-
-- 🚀 **Currently Building:** Self-contained single-page apps & tools for local grassroots sports.
-- 📈 **My Mindset:** Documenting real, shipped projects in public.
-- 💼 **Status:** Actively seeking **Fall 2026 Co-op / Internship** opportunities.  
+- 💼 **Looking Ahead:** Actively seeking **Fall 2026 Co-op / Internship** opportunities in Software & Front-End Engineering.
 
 ---
 ## 🛠️ Tech Stack
