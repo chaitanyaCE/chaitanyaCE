@@ -41,11 +41,13 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 ## 🎯 What Sets Me Apart
 
-![UX First](https://img.shields.io/badge/Focus-UX_%26_Clarity-2ea44f?style=for-the-badge)
-![Full Stack Mindset](https://img.shields.io/badge/Approach-End--to--End_Shipping-0969da?style=for-the-badge)
-![Clean Code](https://img.shields.io/badge/Architecture-Modular_%26_Maintainable-6e7681?style=for-the-badge)
-
-I don’t just write code that compiles, I care about how it **feels** to use. Being a Computer Engineering student with a UX focus, I build interfaces where technical structure meets human-centered design.
+```json
+{
+  "engineering_focus": "Computer Engineering + UX Synergy",
+  "code_philosophy": "Readable, modular, and built for humans",
+  "shipping_standard": "Full state persistence over half-baked demos",
+  "currently_learning": "Scaling high-usability frontend architecture"
+}
 
 ---
 
