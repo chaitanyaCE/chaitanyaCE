@@ -41,8 +41,8 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 ## 🎯 What Sets Me Apart
 
-- I prioritize **clarity over clutter** in both code and design  
-- I ship **focused, complete projects** — not half-finished ideas  
+- **Engineering + UX Synergy**: I bridge the gap between technical CS fundamentals and intuitive design, ensuring interfaces are both highly functional and accessible  
+- **Architecture for Clarity**: I write clean, maintainable, and modular code—prioritizing readable structure and simplicity over unnecessary complexity  
 - I combine **development + design + content** into cohesive outputs  
 
 ---
