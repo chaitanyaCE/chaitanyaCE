@@ -27,11 +27,12 @@ My goal is simple: turn ideas into interfaces that people can actually use.
 
 ## 🚧 Current Focus
 
-![Building](https://img.shields.io/badge/Building-Small,%20High--Quality%20Web%20Apps-0969da?style=for-the-badge&logo=github)
-![Community](https://img.shields.io/badge/Designing-Sports%20%26%20Event%20Tools-2ea44f?style=for-the-badge&logo=react)
-![Learning](https://img.shields.io/badge/Sharpening-Core%20CS%20%2B%20Algorithms-6e7681?style=for-the-badge&logo=cplusplus)
+| 🔨 **What I'm Building** | 🧠 **What I'm Sharpening** |
+| :--- | :--- |
+| **UX-First Web Apps:** Small, fast, and polished front-end applications. | **CS Fundamentals:** Deepening my grasp of C++, algorithms, and memory management. |
+| **Community Event Tools:** Custom countdowns, flyers, and tools for grassroots tournaments. | **State Management:** Crafting seamless single-page apps with local data persistence. |
 
-> *"Right now, I'm prioritizing user experience over unnecessary complexity—shipping clean, functional web apps and real-world tools for local communities."*
+*⚡ Currently experimenting with: Vanilla JS State Routing & Tailscale Networking on hardware chips.*
 
 ---
 
