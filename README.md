@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chaitanya Patel
 
-I'm an **Honours Computer Engineering** student at the **University of Waterloo** who cares just as much about how software *feels* to use as how cleanly it's engineered under the hood.
+![Typing](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=58A6FF&lines=Computer+Engineering+Student+@+UWaterloo;Aspiring+Software+Developer;UX-Focused+Builder)
 
 - 🎯 **Engineering + UX:** Combining front-end usability with solid Computer Engineering fundamentals.
 - 🛠️ **What I Build:** Clean, responsive web applications and practical tools for community events.
