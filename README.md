@@ -1,19 +1,11 @@
 # 👋 Hi, I'm Chaitanya Patel
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=58A6FF&lines=Computer+Engineering+Student;Frontend+Developer;Aspiring+Software+Developer;UX-Focused+Builder)
+I'm an **Honours Computer Engineering** student at the **University of Waterloo** who cares just as much about how software *feels* to use as how cleanly it's engineered under the hood.
 
-🎓 Computer Engineering @ University of Waterloo  
-💻 Front-End Developer • Aspring Software Developer • UX-Focused Builder
-
----
-
-# 👋 Hi, I'm Chaitanya Patel
-
-![Computer Engineering](https://img.shields.io/badge/UWaterloo-Computer%20Engineering-0969da?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-UX--First%20Development-2ea44f?style=for-the-badge)
-![Mindset](https://img.shields.io/badge/Philosophy-Learning%20in%20Public-6e7681?style=for-the-badge)
-
-I build clean, responsive web applications where technical structure meets intuitive design. Studying **Honours Computer Engineering**, my goal is simple: eliminate friction and turn complex ideas into interfaces people actually enjoy using.
+- 🎯 **Engineering + UX:** Combining front-end usability with solid Computer Engineering fundamentals.
+- 🛠️ **What I Build:** Clean, responsive web applications and practical tools for community events.
+- 📈 **Learning in Public:** Documenting my journey through finished, shipped projects—not half-baked demos.
+- 💼 **Looking Ahead:** Seeking **Fall 2026 Co-op / Internship** opportunities in Software & Front-End Engineering.
 
 - 🚀 **Currently Building:** Self-contained single-page apps & tools for local grassroots sports.
 - 📈 **My Mindset:** Documenting real, shipped projects in public.
