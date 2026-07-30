@@ -67,7 +67,7 @@ I don’t just write code that compiles, I care about how it **feels** to use. B
 | 🎨 **Design & Media** | 🏀 **Community & Events** | ⚡ **Philosophy** |
 | :--- | :--- | :--- |
 | Editing video reels & motion graphics | Directing logistics for 3v3 basketball tournaments | Simple layouts beat complex over-engineering |
-| Designing tournament countdown flyers | Building tools for grassroots sports organizations | Learning in public through documented shipping |
+| Designing tournament countdown flyers | Videography & Photography | Learning in public through documented shipping |
 
 ---
 
