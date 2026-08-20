@@ -79,8 +79,8 @@
 ```
 ---
 
-## 🤝 Collaboration
+## 🤝 Let's Collaborate
+Whether you are hiring for **Fall 2026**, building a community tool, or just want to chat about UX and front-end development—I'd love to connect.
 
-If you're building something meaningful or need a developer who cares about UX:
-
-**👉 Open an issue or reach out — I’m always open to collaborating.**
+[![Email Me](https://img.shields.io/badge/Email-Reach_Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c5patel@uwaterloo.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-patel-uwaterloo/)
