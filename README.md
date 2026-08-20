@@ -58,7 +58,8 @@
 ![Audit & Implementation](https://img.shields.io/badge/Process-Audit_%26_Implementation-0969da?style=for-the-badge)
 ![Lifelong Learner](https://img.shields.io/badge/Mindset-Lifelong_Learner-6e7681?style=for-the-badge)
 
-I don’t just write code that compiles, I care about how it **feels** to use. As a Computer Engineering student, I apply my technical foundation to audit and improve digital interfaces, building practical tools that make digital interactions intuitive and seamless.
+> _"I don’t just write code that compiles, I care about how it **feels** to use. As a Computer Engineering student, I apply my technical foundation to audit and improve digital interfaces, building practical tools that make digital interactions intuitive and seamless."_
+
 ---
 
 ## 🎬 Beyond Code
