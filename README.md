@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Q1%202026-COMMUNITY%20EVENT%20TOOLS-2ea44f?style=for-the-badge" alt="Stage 2" />
   <br />
-  🏀 <em>Building custom tools and graphics for local grassroots tournaments.</em>
+  🏀 <em>Building custom tools and graphics for community tournaments.</em>
 </p>
 
 <p align="center">
