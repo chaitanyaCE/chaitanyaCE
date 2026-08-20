@@ -82,5 +82,5 @@
 ## 🤝 Let's Collaborate
 Whether you are hiring for **Fall 2026**, building a community tool, or just want to chat about UX and front-end development—I'd love to connect.
 
-[![Email Me](https://img.shields.io/badge/Email-Reach_Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c5patel@uwaterloo.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-patel-uwaterloo/)
+[![Email Me](https://img.shields.io/badge/-Email%20Me-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:c5patel@uwaterloo.ca)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-patel-uwaterloo/)
