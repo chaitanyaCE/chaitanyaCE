@@ -19,7 +19,7 @@
 ## 🚧 Current Focus Roadmap
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Q2--Q3%202024-UX--FIRST%20WEB%20APPS-0969da?style=for-the-badge" alt="Stage 1" />
+  <img src="https://img.shields.io/badge/Q2%202026-UX--FIRST%20WEB%20APPS-0969da?style=for-the-badge" alt="Stage 1" />
   <br />
   🚀 <em>Shipping clean, responsive front-end applications, prioritizing usability.</em>
 </p>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Q4%202024-COMMUNITY%20EVENT%20TOOLS-2ea44f?style=for-the-badge" alt="Stage 2" />
+  <img src="https://img.shields.io/badge/Q1%202026-COMMUNITY%20EVENT%20TOOLS-2ea44f?style=for-the-badge" alt="Stage 2" />
   <br />
   🏀 <em>Building custom tools and graphics for local grassroots tournaments.</em>
 </p>
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2025%2B-CS%20FUNDAMENTALS%20%26%20ALGORITHMS-6e7681?style=for-the-badge" alt="Stage 3" />
+  <img src="https://img.shields.io/badge/Q3%202025+-CS%20FUNDAMENTALS%20%26%20ALGORITHMS-6e7681?style=for-the-badge" alt="Stage 3" />
   <br />
   🧠 <em>Deepening grasp of C++ optimization, data structures, and memory management.</em>
 </p>
