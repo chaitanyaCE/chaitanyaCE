@@ -65,7 +65,6 @@
 ## 🎬 Beyond Code
 
 ```text
-📦 ./Beyond_Code/
 ├── 🎨 Design_and_Media/
 │   ├── 🔸 Editing video reels & motion graphics
 │   └── 🔸 Designing tournament countdown flyers
