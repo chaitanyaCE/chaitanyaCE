@@ -64,29 +64,17 @@
 
 ## 🎬 Beyond Code
 
-<details>
-  <summary>🎨 <b>Design & Media</b></summary>
-  <ul>
-    <li>Editing video reels & motion graphics</li>
-    <li>Designing tournament countdown flyers</li>
-  </ul>
-</details>
+#### 🎨 Design & Media
+> - Editing video reels & motion graphics
+> - Designing tournament countdown flyers
 
-<details>
-  <summary>🏀 <b>Community & Events</b></summary>
-  <ul>
-    <li>Directing logistics for 3v3 basketball tournaments</li>
-    <li>Videography & Photography</li>
-  </ul>
-</details>
+#### 🏀 Community & Events
+> - Directing logistics for 3v3 basketball tournaments
+> - Videography & Photography
 
-<details>
-  <summary>⚡ <b>Philosophy</b></summary>
-  <ul>
-    <li>Simple layouts beat complex over-engineering</li>
-    <li>Learning in public through documented shipping</li>
-  </ul>
-</details>
+#### ⚡ Philosophy
+> - Simple layouts beat complex over-engineering
+> - Learning in public through documented shipping
 ---
 
 ## 🌐 Connect With Me
