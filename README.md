@@ -64,18 +64,20 @@
 
 ## 🎬 Beyond Code
 
-#### 🎨 Design & Media
-> - Editing video reels & motion graphics
-> - Designing tournament countdown flyers
+```yaml
+# 🎬 beyond_code.yml
 
-#### 🏀 Community & Events
-> - Directing logistics for 3v3 basketball tournaments
-> - Videography & Photography
+🎨 Design & Media:
+  - Editing video reels & motion graphics
+  - Designing tournament countdown flyers
 
-#### ⚡ Philosophy
-> - Simple layouts beat complex over-engineering
-> - Learning in public through documented shipping
----
+🏀 Community & Events:
+  - Directing logistics for 3v3 basketball tournaments
+  - Videography & Photography
+
+⚡ Philosophy:
+  - Simple layouts beat complex over-engineering
+  - Learning in public through documented shipping
 
 ## 🌐 Connect With Me
 
@@ -91,7 +93,7 @@
   </a>
 
 </p>
-
+```
 ---
 
 ## 🤝 Collaboration
