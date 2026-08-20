@@ -64,35 +64,19 @@
 
 ## 🎬 Beyond Code
 
-```yaml
-# 🎬 beyond_code.yml
-
-🎨 Design & Media:
-  - Editing video reels & motion graphics
-  - Designing tournament countdown flyers
-
-🏀 Community & Events:
-  - Directing logistics for 3v3 basketball tournaments
-  - Videography & Photography
-
-⚡ Philosophy:
-  - Simple layouts beat complex over-engineering
-  - Learning in public through documented shipping
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/chaitanya-patel-uwaterloo">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/chaitanya_patel130/?hl=en">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:c5patel@uwaterloo.ca">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-</p>
+```text
+📦 ./Beyond_Code/
+├── 🎨 Design_and_Media/
+│   ├── 🔸 Editing video reels & motion graphics
+│   └── 🔸 Designing tournament countdown flyers
+│
+├── 🏀 Community_and_Events/
+│   ├── 🔸 Directing logistics for 3v3 basketball tournaments
+│   └── 🔸 Videography & Photography
+│
+└── ⚡ Philosophy/
+    ├── 🔸 Simple layouts beat complex over-engineering
+    └── 🔸 Learning in public through documented shipping
 ```
 ---
 
