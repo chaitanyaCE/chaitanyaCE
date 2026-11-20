@@ -5,8 +5,7 @@
 - 🎯 **Engineering + UX:** Combining front-end usability with solid Computer Engineering fundamentals.
 - 🛠️ **What I Build:** Clean, responsive web applications and practical tools for community events.
 - 📈 **Learning in Public:** Documenting my journey through finished, shipped projects, not half-baked demos.
-- 💼 **Looking Ahead:** Actively seeking **Fall 2026 Co-op / Internship** opportunities in Software & Front-End Engineering.
-
+- 💼 **Looking Ahead:** Seeking **Summer 2027 Co-op** opportunities in **Software Engineering, Systems Integration, and Automation**.
 ---
 ## 🛠️ Tech Stack
 
